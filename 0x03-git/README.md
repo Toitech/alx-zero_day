@@ -1,1 +1,1 @@
-my second readme
+Git change only once in github platform
